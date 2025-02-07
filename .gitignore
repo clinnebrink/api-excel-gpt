@@ -1,0 +1,31 @@
+# Archivos de sistema Mac
+.DS_Store
+.localized
+
+# Archivos de imágenes y videos
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+
+# Documentos y PDFs
+*.docx
+*.doc
+*.pdf
+
+# Archivos Excel y temporales
+*.xlsx
+*.xls
+~$*
+
+# Carpetas específicas que no queremos subir
+ifop/
+ElectroAncud/
+LICITACIONES/
+Finiquitos/
+"diseños Hotel/"
+
+# Otros archivos temporales
+*~
+
