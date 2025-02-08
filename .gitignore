@@ -1,31 +1,30 @@
-# Archivos de sistema Mac
+# Ignorar archivos de sistema Mac
 .DS_Store
 .localized
 
-# Archivos de imágenes y videos
+# Ignorar imágenes y videos
 *.png
 *.jpg
 *.jpeg
 *.gif
 *.mp4
 
-# Documentos y PDFs
+# Ignorar documentos de Office y PDFs
 *.docx
 *.doc
 *.pdf
 
-# Archivos Excel y temporales
+# Ignorar archivos de Excel y temporales
 *.xlsx
 *.xls
 ~$*
 
-# Carpetas específicas que no queremos subir
-ifop/
-ElectroAncud/
-LICITACIONES/
-Finiquitos/
+# Ignorar carpetas innecesarias
+TINAJAS SERCOTEC/
+api-excel-gpt/
 "diseños Hotel/"
 
 # Otros archivos temporales
 *~
+
 
